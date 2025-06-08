@@ -1,7 +1,7 @@
 
 
-````markdown
-# 🍽️ Sistema de Gestão de Restaurantes
+
+## 🍽️ Sistema de Gestão de Restaurantes
 
 Projeto acadêmico para gerenciamento de pratos de um restaurante, com foco em uma experiência visual de cardápio.
 
